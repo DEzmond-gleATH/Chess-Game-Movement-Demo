@@ -13,11 +13,17 @@ Check out my implementation and feedback is always appreciated
 
 Thank you for checking out my game!
 
-###Potential enhancements:
+### Potential enhancements:
 1.**User-friendly UI and Main Menu**: I envision incorporating a polished user interface and an engaging main menu to create a seamless and immersive experience for players.
+
 2.**Enhanced Graphics**: To enrich the visual appeal, I'm considering upgrading the graphics to offer players a more captivating and visually pleasing environment.
+
 3.**Soldier's Starting Move**: In accordance with chess rules, enhancing the soldier's moves to allow for two steps forward from its starting position would introduce a greater strategic depth to the game.
+
 4.**Checkmate Notifications**: For heightened engagement, the game could offer real-time notifications when a king is in a "check" state, urging the opposing player to move the king. If a king is cornered with no possible moves left, the game would initiate the "checkmate" state, bringing a thrilling conclusion.
+
 5.**AI Opponent Implementation**: By introducing an AI opponent, players can hone their skills against a dynamic and challenging virtual adversary, enhancing the game's allure.
+
 6.**Player Choice of Side**: Adding a feature that allows players to select their preferred side, either white or black, would personalize the gaming experience and provide an opportunity to explore different strategies.
+
 7.**Refined "Winner" UI**: Designing an enhanced "winner" user interface that celebrates the victor in a more captivating and rewarding manner, offering a satisfying end to each game.
