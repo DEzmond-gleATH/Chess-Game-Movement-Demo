@@ -11,7 +11,7 @@ And hey, if pieces from the same family (black or white) get in the way, the gre
 
 Top it off: once you checkmate the opponent's king, victory gets celebrated, and you can tap to dive right back in.
 
-Take a loot at my implementation and feedback is always appreciated
+Take a loot at my implementation and feedback is always appreciated.
 
 Thank you for checking out my game!
 
