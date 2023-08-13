@@ -2,6 +2,7 @@
  A chess simulation demonstrating precise movement through my coded implementation. Experience virtual chess strategies and moves come to life.
 
 Hey everyone! 
+
 Just dropped my second Unity project here. This one's all about diving into programming and coding. I've been exploring the ins and outs of C# within Unity, figuring out how these scripts dance together in the game engine.
 While coding might still throw me a few curveballs, this project has been an exciting journey. I'm determined to conquer coding because my dream is to become a game developer!
 
