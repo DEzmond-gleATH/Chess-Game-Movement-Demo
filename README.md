@@ -10,7 +10,8 @@ This project is a hands-on exploration of coding chess piece movements according
 And hey, if pieces from the same family (black or white) get in the way, the green light stops there. Play a round, and you'll see what I mean.
 
 Top it off: once you checkmate the opponent's king, victory gets celebrated, and you can tap to dive right back in.
-Check out my implementation and feedback is always appreciated
+
+Take a loot at my implementation and feedback is always appreciated
 
 Thank you for checking out my game!
 
